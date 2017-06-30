@@ -7,5 +7,3 @@ service ss5 start
 rm -f sock5.sh
 echo "Install sukses bro. port di 1080"
 netstat -tulpn
-# original script by Galirezah,boleh di share boleh di coding ulang,
-# orang sehat selalu menghargai karya orang lain.
